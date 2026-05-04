@@ -1,15 +1,11 @@
----
-permalink: /
----
-
 ## Libraries
 
-### [Date](libs/Date.md)
+### [Date](Date.md)
 
-### [Algebra](libs/Algebra.md)
+### [Algebra](/Algebra.md)
 
-### [Astro](libs/Astro.md)
+### [Astro](Astro.md)
 
-### [Geo](libs/Geo.md)
+### [Geo](Geo.md)
 
-### [Sensors](libs/Sensors.md)
+### [Sensors](Sensors.md)
